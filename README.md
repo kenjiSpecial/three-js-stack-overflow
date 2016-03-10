@@ -1,7 +1,8 @@
-### three-js-stack-overflow
+## three-js-stack-overflow
 
 the stack overflow link lists which helped a lot whne I devloped with three.js
 
+### March 2016
 
 ##### Is there any reason why a camera's matrixworldinverse won't update when using trackball controls?
 
